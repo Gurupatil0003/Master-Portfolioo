@@ -1,0 +1,45 @@
+function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+/*
+Copyright (c) 2018-2020 Uber Technologies, Inc.
+
+This source code is licensed under the MIT license found in the
+LICENSE file in the root directory of this source tree.
+*/
+// Styled elements
+import * as React from 'react';
+import { Link } from './styled-components.js';
+import { withWrapper } from '../styles/index.js';
+import { isFocusVisible, forkFocus, forkBlur } from '../utils/focusVisible.js';
+
+function LinkFocus(props) {
+  const [focusVisible, setFocusVisible] = React.useState(false);
+
+  const handleFocus = event => {
+    if (isFocusVisible(event)) {
+      setFocusVisible(true);
+    }
+  };
+
+  const handleBlur = event => {
+    if (focusVisible !== false) {
+      setFocusVisible(false);
+    }
+  };
+
+  return props.children({
+    focusVisible,
+    handleFocus,
+    handleBlur
+  });
+}
+
+export const StyledLink = withWrapper(Link, Styled => function StyledLink(props) {
+  return React.createElement(LinkFocus, null, focusProps => React.createElement(Styled, _extends({
+    "data-baseweb": "link"
+  }, props, {
+    $isFocusVisible: focusProps.focusVisible,
+    onFocus: forkFocus(props, focusProps.handleFocus),
+    onBlur: forkBlur(props, focusProps.handleBlur)
+  })));
+});
