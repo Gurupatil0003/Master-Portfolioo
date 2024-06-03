@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Python Full Stack Tutorial",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/Gurupatil0003",
+      "description": "🔥 If you wann Become a python Fullstack Developer This repository help you to learn python from scratch. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "skill-icons:scikitlearn-light"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Student performance Analysis Using AI Virtual Game",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "",
+      "description": "📦 AI-powered virtual game environment to analyze and predict student performance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "devicon:unifiedmodelinglanguage"
+        },
+        {
+          "name": "Neural-Network",
+          "iconifyClass": "eos-icons:neural-network"
+        },
+        {
+          "name": "OpenCv",
+          "iconifyClass": "devicon:opencv-wordmark"
+        },
+        {
+          "name": "Data-Visualization",
+          "iconifyClass": "logos:sourcegraph"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Insurance-Claim-Hackthon-Project",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/Gurupatil0003/Insurance-Claim",
+      "description": "🌀 Processing your insurance claim into automatically through our advanced system.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "MySql",
+          "iconifyClass": "logos:mysql"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Generative AI",
+          "iconifyClass": "eos-icons:ai-healing"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "devicon:tensorflow"
+        },
+        {
+          "name": "spark",
+          "iconifyClass": "logos:apache-spark"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Job-recommendations-for-your-resume", 
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/Gurupatil0003/job-recommendations-for-your-resume.",
+      "description": "⚙️ Solving Students Problem to find there dream Company Chooosing Our Application. Here our Application Will Recommend Company According to There Resume using DL and NLP Method.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "devicon-plain:django-wordmark"
+        },
+       
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos:matplotlib-icon"
+        },
+        {
+          "name": "Mongodb",
+          "iconifyClass": "devicon:mongodb-wordmark"
+        },
+        {
+          "name": "Hadoop",
+          "iconifyClass": "devicon:hadoop-wordmark"
+        }
+
+
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "awesome-portfolio",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "",
+      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flask",
+          "iconifyClass": "devicon:flask-wordmark"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos:matplotlib-icon"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Github and Vscode",
+          "iconifyClass": "devicon:githubcodespaces"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Flask_Tutorial",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/Gurupatil0003/01_Flask_Tutorial",
+      "description": "🚀 Learn Python FrameWork and you will Get Experinece to Work with Different Level Project.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Pandas",
+          "iconifyClass": "devicon:pandas-wordmark"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "devicon-plain:numpy-wordmark"
+        },
+        {
+          "name": "ALL-libraries",
+          "iconifyClass": "vscode-icons:file-type-plsql-package"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}
