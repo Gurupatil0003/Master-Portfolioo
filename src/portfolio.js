@@ -876,7 +876,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://hashnode.com/@Gurupatil0003/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
@@ -889,7 +889,7 @@ const contactPageData = {
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://www.google.com/maps/place/Yelahanka+New+town/@13.1065132,77.5669018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1916f1b66fbd:0x724901ff4e68ebfb!8m2!3d13.106508!4d77.5694767!16s%2Fg%2F11v0917pj_?entry=ttu",
   },
   phoneSection: {
     title: "",
